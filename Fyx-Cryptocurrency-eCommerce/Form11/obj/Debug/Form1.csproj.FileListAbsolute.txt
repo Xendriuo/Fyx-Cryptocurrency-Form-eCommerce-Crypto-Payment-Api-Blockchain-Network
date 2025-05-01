@@ -1,0 +1,2 @@
+D:\GithubNew\11\CryptoPayment2\CryptoPaym\Fyx-Cryptocurrency-eCommerce\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\11\CryptoPayment2\CryptoPaym\Fyx-Cryptocurrency-eCommerce\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
